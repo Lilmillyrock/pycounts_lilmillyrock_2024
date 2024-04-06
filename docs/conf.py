@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"pycounts_lilmillyrock_2024"
 copyright = u"2024, Lillian Milroy"
 author = u"Lillian Milroy"
 

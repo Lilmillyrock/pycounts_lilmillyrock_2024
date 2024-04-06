@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts"
+name = "pycounts_lilmillyrock_2024"
 version = "0.1.0"
 description = "Calculate word counts in a text file!"
 authors = ["Lillian Milroy"]

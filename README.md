@@ -1,11 +1,11 @@
-# pycounts
+# pycounts_lilmillyrock_2024
 
 Calculate word counts in a text file!
 
 ## Installation
 
 ```bash
-$ pip install pycounts
+$ pip install pycounts_lilmillyrock_2024
 ```
 
 ## Usage
@@ -30,8 +30,8 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`pycounts` was created by Lillian Milroy. It is licensed under the terms of the MIT license.
+`pycounts_lilmillyrock_2024` was created by Lillian Milroy. It is licensed under the terms of the MIT license.
 
 ## Credits
 
-`pycounts` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`pycounts_lilmillyrock_2024` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).

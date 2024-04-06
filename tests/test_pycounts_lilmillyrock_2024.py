@@ -1,4 +1,4 @@
-from pycounts.pycounts import count_words
+from pycounts_lilmillyrock_2024.pycounts_lilmillyrock_2024 import count_words
 from collections import Counter
 
 def test_count_words():
