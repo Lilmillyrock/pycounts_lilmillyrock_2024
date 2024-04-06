@@ -14,9 +14,9 @@ $ pip install pycounts_lilmillyrock_2024
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
-import matplotlib.pyplot as plt
+from pycounts_lilmillyrock_2024.pycounts_lilmillyrock_2024 import count_words
+from pycounts_lilmillyrock_2024.plotting_lilmillyrock_2024 import plot_words
+from matplotlib import pyplot as plt
 
 file_path = "test.txt"  # path to your file
 counts = count_words(file_path)
